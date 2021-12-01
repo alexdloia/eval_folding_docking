@@ -1,0 +1,17 @@
+2021-11-24 07:22:38,445 Found 5 citations for tools or databases
+2021-11-24 07:22:49,867 Query 1/1: 7BWJ_1_Chain_A_auth_E__Spike_protein_S1_Severe_acute_respiratory_syndrome_coronavirus_2__2697049_ (length 217)
+2021-11-24 07:22:50,809 Sleeping for 10s. Reason: PENDING
+2021-11-24 07:23:01,613 Sleeping for 6s. Reason: RUNNING
+2021-11-24 07:23:08,426 Sleeping for 10s. Reason: RUNNING
+2021-11-24 07:23:20,031 Running model_3
+2021-11-24 07:27:24,106 model_3 took 0.0s with pLDDT 76.0
+2021-11-24 07:27:25,249 Running model_4
+2021-11-24 07:28:53,876 model_4 took 0.0s with pLDDT 73.3
+2021-11-24 07:28:54,858 Running model_5
+2021-11-24 07:30:25,055 model_5 took 0.0s with pLDDT 79.2
+2021-11-24 07:30:26,053 Running model_1
+2021-11-24 07:35:07,254 model_1 took 0.0s with pLDDT 67.5
+2021-11-24 07:35:08,347 Running model_2
+2021-11-24 07:36:37,247 model_2 took 0.0s with pLDDT 70.6
+2021-11-24 07:36:38,245 reranking models based on avg. predicted lDDT
+2021-11-24 07:36:38,945 Done

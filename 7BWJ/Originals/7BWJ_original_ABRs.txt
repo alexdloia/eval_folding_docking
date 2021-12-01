@@ -1,0 +1,24 @@
+Please cite the following when referring to results from our server:
+
+* Kunik V, Peters B, Ofran Y (2012). Structural Consensus among Antibodies Defines the Antigen Binding Site. PLoS Comput Biol 8(2): e1002388. doi:10.1371/journal.pcbi.1002388.
+
+* Kunik V, Ashkenazi S, Ofran Y (2012). Paratome: An online tool for systematic identification of antigen binding regions in antibodies based on sequence or structure. Nucleic Acids Res. 2012 Jul;40(Web Server issue):W521-4. doi: 10.1093/nar/gks480. Epub 2012 Jun 6
+____________________________________________________________________________________________
+
+paratome_7BWJ_H (heavy chain)
+ABR H1: YSISSGYYWG (27,28,29,30,31,32,33,34,35,36)
+ABR H2: WIGSIYHSGSTYY (48,49,50,51,52,53,54,55,56,57,58,59,60)
+ABR H3: RAVVGIVVVPAAGRRAFDI (98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116)
+
+paratome_7BWJ_L (light chain)
+ABR L1: SSDVGGYNYVS (26,27,28,29,30,31,32,33,34,35,36)
+ABR L2: LMIYEVSKRPS (48,49,50,51,52,53,54,55,56,57,58)
+ABR L3: SSYAGSNNL (91,92,93,94,95,96,97,98,99)
+
+paratome_7BWJ_E
+Could not find ABR1 (No blast hits found).
+Could not find ABR2 (No blast hits found).
+Could not find ABR3 (No blast hits found).
+ 
+____________________________________________________________________________________________
+
