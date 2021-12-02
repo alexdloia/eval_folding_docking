@@ -1,0 +1,13 @@
+Please cite the following when referring to results from our server:
+
+* Kunik V, Peters B, Ofran Y (2012). Structural Consensus among Antibodies Defines the Antigen Binding Site. PLoS Comput Biol 8(2): e1002388. doi:10.1371/journal.pcbi.1002388.
+
+* Kunik V, Ashkenazi S, Ofran Y (2012). Paratome: An online tool for systematic identification of antigen binding regions in antibodies based on sequence or structure. Nucleic Acids Res. 2012 Jul;40(Web Server issue):W521-4. doi: 10.1093/nar/gks480. Epub 2012 Jun 6
+____________________________________________________________________________________________
+
+paratome_1_7ORB_3_Chains_C_auth_D___H_auth_L__COVOX_253_Fab_light_chain_Homo_sapiens__9606 
+ABR L1: QSVSSSYLA (27-35)
+ABR L2: LLIYGASSGAT (47-57)
+ABR L3: QQYGSSPY (90-97)
+
+http://ofranservices.biu.ac.il/site/services/paratome/process_html/93908.html
